@@ -1,7 +1,13 @@
+@font-face {
+  font-family: "open sans";
+  URL: "fonts/OpenSans-Light.ttf";
+  font-weight: normal;
+  font-style: italic;
+}
 body {
   background: #eee;
   color: #444;
-  font-family: Arial;
+  font-family: "open sans";
   font-size: 16px;
 }
 footer {
