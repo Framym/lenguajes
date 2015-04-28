@@ -55,6 +55,10 @@ nav ul li {
   display: inline-block;
   margin: 0 1.2em 0 0;
 }
+nav ul li:hover {
+  background: #343b54;
+  cursor: pointer;
+}
 nav ul li a {
   color: #eee;
   display: block;
